@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/activity_horizontal_margin">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:id="@+id/bearing"
+            android:hint="@string/hint_bearing"
+            android:inputType="numberDecimal"
+            android:layout_toLeftOf="@+id/compass"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <CheckBox
+            android:id="@+id/compass"
+            android:layout_alignParentRight="true"
+            android:layout_alignBottom="@id/bearing"
+            android:layout_alignTop="@id/bearing"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/label_use_compass"/>
+
+    </RelativeLayout>
+
+    <EditText
+        android:id="@+id/model"
+        android:hint="@string/hint_model_name"
+        android:layout_marginTop="@dimen/activity_horizontal_margin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:id="@+id/frequency"
+        android:hint="@string/hint_transmitter_frequency"
+        android:layout_marginTop="@dimen/activity_horizontal_margin"
+        android:inputType="numberDecimal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/activity_horizontal_margin"
+        android:orientation="horizontal"
+        android:weightSum="100">
+
+        <EditText
+            android:id="@+id/start_lat"
+            android:layout_width="0dp"
+            android:layout_weight="50"
+            android:hint="@string/hint_start_lat"
+            android:layout_height="wrap_content" />
+
+        <EditText
+            android:id="@+id/start_lng"
+            android:layout_width="0dp"
+            android:layout_weight="50"
+            android:hint="@string/hint_start_lng"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/phone_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/activity_horizontal_margin">
+
+        <EditText
+            android:id="@+id/phone"
+            android:hint="@string/hint_phone_number"
+            android:inputType="phone"
+            android:layout_toLeftOf="@+id/pick_contact"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <ImageButton
+            android:id="@+id/pick_contact"
+            android:layout_width="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@id/phone"
+            android:layout_alignBottom="@id/phone"
+            android:src="@drawable/ic_action_person"
+            android:layout_height="wrap_content" />
+
+    </RelativeLayout>
+
+    <CheckBox
+        android:id="@+id/save"
+        android:layout_marginTop="@dimen/activity_horizontal_margin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/checkbox_save"/>
+
+    <ProgressBar
+        android:id="@+id/progress"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/activity_horizontal_margin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/wait_text"
+        android:text="@string/message_please_wait_location"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

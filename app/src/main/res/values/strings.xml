@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="item_actions">
+        <item>Continue Navigation</item>
+        <item>View Track</item>
+        <item>Cancel</item>
+    </string-array>
+
+    <string name="app_name">FreeFlight Searcher</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="title_tab_info">INFO</string>
+    <string name="title_tab_map">MAP</string>
+    <string name="action_start_navigation">Start Search</string>
+    <string name="action_save">Save</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="waiting_for_gps">Waiting for GPS…</string>
+    <string name="hint_bearing">Bearing</string>
+    <string name="hint_bearing2">Bearing 2 (optional)</string>
+    <string name="hint_model_name">Model Name</string>
+    <string name="hint_transmitter_frequency">Radio Transmitter Frequency</string>
+    <string name="dots">…</string>
+    <string name="zero">0</string>
+    <string name="label_distance_to_start">DISTANCE TO START</string>
+    <string name="label_traveled_distance">TRAVELED DISTANCE</string>
+    <string name="label_deviation">DEVIATION</string>
+    <string name="label_deviation2">DEVIATION 2</string>
+    <string name="map_key_release" translatable="false">AIzaSyAG3-1d2vAwghJb1f7tW4hvXKoyrhb4oec</string>
+    <string name="navigation_going">Navigation is enabled…</string>
+    <string name="navigation_stopped">Navigation stopped!</string>
+    <string name="adapter_search_number">Search #</string>
+    <string name="adapter_model_name">Model: </string>
+    <string name="adapter_frequency">Frequency: </string>
+    <string name="adapter_bearing">Bearing: </string>
+    <string name="dialog_title_new_search">New search</string>
+    <string name="dialog_button_start">Start</string>
+    <string name="dialog_button_cancel">Cancel</string>
+    <string name="activity_title_bearing">Bearing: </string>
+    <string name="activity_title_bearing2">Bearing 2: </string>
+    <string name="activity_subtitle_time">Search started at: </string>
+    <string name="m">m</string>
+    <string name="marker_start_point">Start Point</string>
+    <string name="listview_empty_text_searches">Looks like you didn\'t searched your models with this app…</string>
+    <string name="listview_empty_text_start_points">Looks like you didn\'t saved start points yet…</string>
+    <string name="dialog_bearing_error">Can\'t navigate without bearing!</string>
+    <string name="checkbox_save">Save settings</string>
+    <string name="dialog_title_select_action">Select Action</string>
+    <string name="dialog_message_explain">You can continue searching or just view your record.</string>
+    <string name="dialog_button_continue">Continue navigation</string>
+    <string name="dialog_button_view_track">View track</string>
+    <string name="label_use_compass">Use device compass</string>
+    <string name="dialog_title_demo_version">Demo Version</string>
+    <string name="dialog_message_demo">Thank you for trying this demo version!</string>
+    <string name="dialog_button_ok">OK</string>
+    <string name="title_activity_sms_received">SmsReceivedActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_send_sms">Send SMS</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_model_found">Model Found!</string>
+    <string name="pin_title_model">Model</string>
+    <string name="menu_action_reset">Compass correction</string>
+    <string name="menu_action_delete_all">Delete all</string>
+    <string name="menu_action_sms">SMS</string>
+    <string name="hint_time_seconds">Time (seconds)</string>
+    <string name="hint_wind_ms">Wind (m/s)</string>
+    <string name="dialog_title_data_received">Flight Data Received!</string>
+    <string name="menu_action_delete">Delete</string>
+    <string name="menu_action_send_sms">Send</string>
+    <string name="hint_phone_number">Phone number</string>
+    <string name="hint_start_lat">Start latitude</string>
+    <string name="hint_start_lng">Start longitude</string>
+    <string name="message_please_wait_location">Please wait till latitude and longitude fields will be filled automatically!</string>
+    <string name="notification_title_sms_received">SMS Received!</string>
+    <string name="dialog_title_result">Search Result</string>
+    <string name="dialog_message_start_angle">Starting angle: </string>
+    <string name="dialog_message_final_angle">\nFinal angle: </string>
+    <string name="dialog_message_difference">\nDifference: </string>
+    <string name="dialog_message_question_save_difference">\nDo you want to add this difference automatically next time?</string>
+    <string name="dialog_button_yes">Yes</string>
+    <string name="dialog_button_no">No</string>
+    <string name="dialog_message_error">"\nError: "</string>
+    <string name="error">"Error: "</string>
+    <string name="remove_bearing">Remove bearing</string>
+    <string name="desc_color_picker" />
+
+
+</resources>

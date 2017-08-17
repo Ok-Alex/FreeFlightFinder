@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/activity_horizontal_margin"
+    android:gravity="center"
+    android:background="@android:color/black">
+    <View
+        android:id="@+id/center"
+        android:layout_centerInParent="true"
+        android:layout_width="1dp"
+        android:layout_height="1dp" />
+
+    <LinearLayout
+        android:id="@+id/deviation1_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/deviation_title"
+            android:textColor="@android:color/white"
+            android:text="@string/label_deviation"
+            android:textSize="@dimen/info_fragment_label_size"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/deviation"
+            android:textColor="@android:color/white"
+            android:text="@string/dots"
+            android:textSize="48sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/deviation2_layout"
+        android:layout_below="@id/deviation1_layout"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/deviation2_title"
+            android:textColor="@android:color/white"
+            android:text="@string/label_deviation2"
+            android:textSize="@dimen/info_fragment_label_size"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/deviation2"
+            android:textColor="@android:color/white"
+            android:text="@string/dots"
+            android:textSize="48sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/distance_layout"
+        android:layout_below="@id/deviation2_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/distance_to_start_label"
+            android:textColor="@android:color/white"
+            android:text="@string/label_distance_to_start"
+            android:textSize="@dimen/info_fragment_label_size"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/distance_to_start"
+            android:textColor="@android:color/white"
+            android:text="@string/dots"
+            android:textSize="48sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_below="@id/distance_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/total_label"
+            android:textColor="@android:color/white"
+            android:text="@string/label_traveled_distance"
+            android:textSize="@dimen/info_fragment_label_size"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/total"
+            android:textColor="@android:color/white"
+            android:text="@string/dots"
+            android:textSize="48sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+</RelativeLayout>

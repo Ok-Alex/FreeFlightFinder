@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="me.akulakovsky.ffsearch.app.SendSmsActivity" >
+    
+    <item android:id="@+id/action_send"
+        android:title="@string/menu_action_send_sms"
+        android:icon="@drawable/ic_action_send_now"
+        android:orderInCategory="100"
+        app:showAsAction="always" />
+</menu>

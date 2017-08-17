@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="semi_transparent_black">#88000000</color>
+    <color name="semi_transparent_white">#88FFFFFF</color>
+
+    <color name="primary">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="primary_light">#BBDEFB</color>
+    <color name="accent">#FF5252</color>
+    <color name="accent_transparent">#80FF5252</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+
+    <color name="red">#ff0000</color>
+    <color name="orange">#f57c00</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="chartreuse">#7FFF00</color>
+    <color name="gray">#9e9e9e</color>
+    <color name="spring_green">#00FF7F</color>
+    <color name="cyan">#00FFFF</color>
+    <color name="azure">#007FFF</color>
+    <color name="blue">#0000FF</color>
+    <color name="violet">#7F00FF</color>
+    <color name="magenta">#FF00FF</color>
+
+    <array name="line_colors">
+        <item>@color/red</item>
+        <item>@color/azure</item>
+        <item>@color/magenta</item>
+        <item>@color/gray</item>
+        <item>@color/orange</item>
+        <item>@color/violet</item>
+    </array>
+</resources>

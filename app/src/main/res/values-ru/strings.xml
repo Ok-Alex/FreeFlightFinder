@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="item_actions">
+        <item>Продовжити навiгацiю</item>
+        <item>Подивитись трек</item>
+        <item>Вiдмiна</item>
+    </string-array>
+
+    <string name="app_name">Пошук вільнолітаючіх моделей</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="title_activity_sms_received">SmsReceivedActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="action_settings">Налаштування</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_tab_info">ІНФО</string>
+    <string name="title_tab_map">МАПА</string>
+    <string name="action_start_navigation">Розпочати пошук</string>
+    <string name="action_save">Зберегти</string>
+    <string name="waiting_for_gps">Очікую сигнал GPS…</string>
+    <string name="hint_bearing">Азимут</string>
+    <string name="hint_bearing2">Азимут 2 (не обов.)</string>
+    <string name="hint_model_name">Імя моделі</string>
+    <string name="hint_transmitter_frequency">Частота радіо трансміттера</string>
+    <string name="dots">…</string>
+    <string name="zero">0</string>
+    <string name="label_distance_to_start">ВІДСТАНЬ ВІД ПОЧАТКУ</string>
+    <string name="label_traveled_distance">ПРОЙДЕНА ВІДСТАНЬ</string>
+    <string name="label_deviation">ВІДХИЛЕННЯ</string>
+    <string name="label_deviation2">ВІДХИЛЕННЯ 2</string>
+    <string name="navigation_going">Навігація працює…</string>
+    <string name="navigation_stopped">Навігація припинена!</string>
+    <string name="adapter_search_number">Пошук #</string>
+    <string name="adapter_model_name">Модель: </string>
+    <string name="adapter_frequency">Частота трансміттера: </string>
+    <string name="adapter_bearing">Азимут: </string>
+    <string name="dialog_title_new_search">Новий пошук</string>
+    <string name="dialog_button_start">Розпочати</string>
+    <string name="dialog_button_cancel">Відхилити</string>
+    <string name="activity_title_bearing">Азимут: </string>
+    <string name="activity_title_bearing2">Азимут 2: </string>
+    <string name="activity_subtitle_time">Пошук розпочато в: </string>
+    <string name="m">м</string>
+    <string name="marker_start_point">Початкова точка</string>
+    <string name="listview_empty_text_searches">Схоже що ви ще не шукали моделі…</string>
+    <string name="dialog_bearing_error">Не можу розпочати навігацію без азимуту!</string>
+    <string name="checkbox_save">Зберігти налаштування</string>
+    <string name="dialog_title_select_action">Оберіть дію</string>
+    <string name="dialog_message_explain">У вас є можливість продовжити пошук або просто переглянути запис.</string>
+    <string name="dialog_button_continue">Продовжити</string>
+    <string name="dialog_button_view_track">Переглянути</string>
+    <string name="label_use_compass">Вмонтований компас</string>
+    <string name="dialog_title_demo_version">Демо версія</string>
+    <string name="dialog_message_demo">Дякую за те що спробували демо версію!</string>
+    <string name="dialog_button_ok">ОК</string>
+    <string name="action_model_found">Модель знайдена</string>
+    <string name="pin_title_model">Модель</string>
+    <string name="menu_action_reset">Корекцiя компаса</string>
+    <string name="menu_action_sms">СМС</string>
+    <string name="hint_time_seconds">Секунди</string>
+    <string name="hint_wind_ms">Швидкість вітру</string>
+    <string name="dialog_title_data_received">Отримана інформація про політ</string>
+    <string name="menu_action_delete">Видалити</string>
+    <string name="menu_action_send_sms">Відправити</string>
+    <string name="hint_phone_number">Номер телефону</string>
+    <string name="hint_start_lat">Початкова широта</string>
+    <string name="hint_start_lng">Початкова довгота</string>
+    <string name="message_please_wait_location">Будь ласка зачекайте доки телефон знайде ваші координати!</string>
+    <string name="notification_title_sms_received">Отримана СМС!</string>
+    <string name="title_activity_send_sms">Відправити СМС</string>
+    <string name="dialog_title_result">Результат пошуку</string>
+    <string name="dialog_message_start_angle">Початковий азимут: </string>
+    <string name="dialog_message_final_angle">\nКінцевий азимут: </string>
+    <string name="dialog_message_difference">\nРізниця: </string>
+    <string name="dialog_message_question_save_difference">\nЧи бажаете ви додавати цю різницю автоматично наступного разу?</string>
+    <string name="dialog_button_yes">Так</string>
+    <string name="dialog_button_no">Ні</string>
+    <string name="dialog_message_error">"\nПохибка: "</string>
+    <string name="error">"Похибка: "</string>
+    <string name="remove_bearing">Remove bearing</string>
+    <string name="desc_color_picker" />
+</resources>

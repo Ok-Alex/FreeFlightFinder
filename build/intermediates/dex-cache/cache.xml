@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Ok-Alex/.android/build-cache/631af2d99511dbc1118dbc0a1935abb0d4577bc8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e989c9e1ff3ab892b8b82dd574d3da763eb3ac5">
+        <dex dex="/Users/Ok-Alex/Development/Projects/FreeFlightSearch/app/build/intermediates/pre-dexed/debug/classes_2f3dfe4e338b6ca4732abb79a5279350df26df6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ok-Alex/.android/build-cache/e8e491f8677a5d078bf74fb8f1704800a6597093/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eeb2226439fc09924584ada5b2f61a2ecdfe15a6">
+        <dex dex="/Users/Ok-Alex/Development/Projects/FreeFlightSearch/app/build/intermediates/pre-dexed/debug/classes_05dc9c3acd5d7976bee2af73a6e88afd5553ff4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ok-Alex/.android/build-cache/9319929d75a944d6a41a9eddc126c940e6662eaa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30305be7e5eacf82de3a96c92082eaab5e22fef2">
+        <dex dex="/Users/Ok-Alex/Development/Projects/FreeFlightSearch/app/build/intermediates/pre-dexed/debug/classes_ee4cd0b7812896a87eff9289aeadba4647f7a0f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ok-Alex/.android/build-cache/d1caaee7d3efb01f844c58faa9d4b4cf7211e398/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db939a450ea2a721db84e774bf108e20c44a8a1d">
+        <dex dex="/Users/Ok-Alex/Development/Projects/FreeFlightSearch/app/build/intermediates/pre-dexed/debug/classes_71986e1bc3a8dadbe06a4117001e9e448a4c4a2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ok-Alex/.android/build-cache/3afb5771a0d81be8bafdfd72a67b299308086940/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a2d9cd43adbe7599a78f2293273a77881c1909a">
+        <dex dex="/Users/Ok-Alex/Development/Projects/FreeFlightSearch/app/build/intermediates/pre-dexed/debug/classes_6b46cc42ded9d2f7bd1c35bf88d7f0ce5247503d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ok-Alex/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.0.0-beta2/e5ef6e4822404221c9b03dff0d31e4810ac3fb0d/support-annotations-26.0.0-beta2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5ef6e4822404221c9b03dff0d31e4810ac3fb0d">
+        <dex dex="/Users/Ok-Alex/Development/Projects/FreeFlightSearch/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-beta2_297123f24785da108941f77f0047497115ea970c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ok-Alex/Development/Projects/FreeFlightSearch/app/libs/simplelatlng-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b081d20d8ed560dd8964fca0b6a0a68a97fe5535">
+        <dex dex="/Users/Ok-Alex/Development/Projects/FreeFlightSearch/app/build/intermediates/pre-dexed/debug/simplelatlng-1.3.0_70afa9cd2ae5ab0afdda89ca0fd32b374ef987e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ok-Alex/.android/build-cache/8aa5f42ba77ab180f78a693897c7905a133be36a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="240e5a7c620376184f3168cfdd36315b97b1fe07">
+        <dex dex="/Users/Ok-Alex/Development/Projects/FreeFlightSearch/app/build/intermediates/pre-dexed/debug/classes_710fae9230faa942e95a45695fff28d9bc096be1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ok-Alex/.android/build-cache/c3b66593e2126b5f8dc56ef0cde786fc00608c50/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0a9dbd76f7de3683d8e80fda10f2389e391958f">
+        <dex dex="/Users/Ok-Alex/Development/Projects/FreeFlightSearch/app/build/intermediates/pre-dexed/debug/classes_372c79a1dd621d849bdbd1bc836ea52508537a65.jar" />
+    </item>
+    <item
+        jar="/Users/Ok-Alex/Development/Projects/FreeFlightSearch/app/libs/simplelatlng-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b081d20d8ed560dd8964fca0b6a0a68a97fe5535">
+        <dex dex="/Users/Ok-Alex/Development/Projects/FreeFlightSearch/app/build/intermediates/pre-dexed/debug/simplelatlng-1.3.0_70afa9cd2ae5ab0afdda89ca0fd32b374ef987e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ok-Alex/.android/build-cache/141de9df9bc11be65b3a31d8850a5863704e04d8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="/Users/Ok-Alex/Development/Projects/FreeFlightSearch/app/build/intermediates/pre-dexed/debug/classes_2f04d2d595214c1ee7a8beeba954fc5849ac1470.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ok-Alex/.android/build-cache/45629cd3bfd1573ab090bda9c564f7ea321a5438/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="14b6254806b82e8c7c000963d9ea1a611950cc78">
+        <dex dex="/Users/Ok-Alex/Development/Projects/FreeFlightSearch/app/build/intermediates/pre-dexed/debug/classes_6cf131fd3a00da024aefe00b07d7c5ed4027b7b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ok-Alex/.android/build-cache/e997cfd9c02d9ce02fa55cc861741b90c8d6195e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Ok-Alex/Development/Projects/FreeFlightSearch/app/build/intermediates/pre-dexed/debug/classes_5eb25724eab717719816fb29fc44e7f0308a6733.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ok-Alex/.android/build-cache/dee46c0b3b85e7296ca42dc1209f3e6d866e3e86/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7424f816f538c2acfba6169b25e297ea22afbd8">
+        <dex dex="/Users/Ok-Alex/Development/Projects/FreeFlightSearch/app/build/intermediates/pre-dexed/debug/classes_a5019f699482d27e121d107843bc924b6db87a1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ok-Alex/.android/build-cache/d0b66b7eb827d7a4711e191b22ea95a07e3a7047/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5d8315789fd7530784fbbc72bb3ac1a016fa703c">
+        <dex dex="/Users/Ok-Alex/Development/Projects/FreeFlightSearch/app/build/intermediates/pre-dexed/debug/classes_e9c52422e0eb3d8e28cd8a1415b5160ed6ba6086.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ok-Alex/.android/build-cache/84160e0a8c92f3a5a86ce1cc4ff92c760decb145/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425afda77858230389ade1965e87c8d4a2b730a2">
+        <dex dex="/Users/Ok-Alex/Development/Projects/FreeFlightSearch/app/build/intermediates/pre-dexed/debug/classes_6d9360679bce324b6fb9d4b9098a05c2f3bac4d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ok-Alex/.android/build-cache/788cb767fb1b0e79dec0ed57685574dffe1ecfb8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="/Users/Ok-Alex/Development/Projects/FreeFlightSearch/app/build/intermediates/pre-dexed/debug/classes_71c3ce6f756fe1244c40ede1e21413e6b96c4d4d.jar" />
+    </item>
+
+</items>
